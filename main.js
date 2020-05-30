@@ -14,3 +14,5 @@ let name = 'Степан';
 let message = `Привет, мир! Меня зовут ${name}`; 
 
 console.log(message);
+
+console.log();
